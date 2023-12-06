@@ -1,7 +1,7 @@
 const h1Element = document.querySelector('h1');
-console.dir(h1Element)
+console.log(h1Element)
 
-h1Element.textContent = 'Tarara'
+h1Element.textContent = 'MERA'
 
 const hello =(e) => {
   console.log('hello!');
