@@ -1,0 +1,4 @@
+.DS_Store
+
+# すべてのディレクトリ内の node_modules ディレクトリを無視
+**/node_modules/
